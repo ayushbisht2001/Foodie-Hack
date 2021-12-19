@@ -22,6 +22,15 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 
+## Server connection
+  for local server
+  - checkout  [backend](https://github.com/ayushbisht2001/Foodie-Hack/blob/master/backend/backend/README.md)
+    
+  for deployed server
+  - uncomment line - at ( src/api/api.js)
+  -  export const server = 'https://ayushbisht200121.pythonanywhere.com/';
+ 
+
 ## Folder Structure Guide
 
     pages : contains all the base / container compoent for each route
