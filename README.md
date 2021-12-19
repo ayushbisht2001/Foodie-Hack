@@ -13,7 +13,21 @@
      
      frontend
         - framework used - React-JS , Material UI , Bootstrap
-        
+
+
+## Glimpse of Project
+   
+   ![Dashbard](./screenshots/img1.png)
+
+   ![Dashbard](./screenshots/img2.png)
+
+   ![Dashbard](./screenshots/img3.png)
+
+   ![Dashbard](./screenshots/img4.png)
+
+   ![Dashbard](./screenshots/img5.png)
+
+
        
         
       
