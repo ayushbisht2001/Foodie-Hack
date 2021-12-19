@@ -43,4 +43,4 @@
 
 ## Start server
 
-    python manage.py runserver
+    python manage.py runserver 8000
