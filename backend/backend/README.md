@@ -22,7 +22,7 @@
 
     For MySql
         - CREATE USER 'hacker'@'localhost' IDENTIFIED BY 'Hacker@123';
-        - GRANT SELECT ON * . * TO 'test'@'localhost';
+        - GRANT SELECT ON * . * TO 'hacker'@'localhost';
         - Permissions - All
         - create database  hackerearth
 
