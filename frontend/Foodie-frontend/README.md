@@ -2,7 +2,10 @@
 
 
 ## Getting Project
-    git clone https://github.com/ayushbisht2001/Foodie-frontend.git
+    git clone https://github.com/ayushbisht2001/Foodie-Hack.git
+
+    go to directory
+    cd frontend/Foodie-frontend
 
 ## Start project
 
