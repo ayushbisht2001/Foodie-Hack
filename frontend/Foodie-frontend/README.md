@@ -1,5 +1,5 @@
 # Project Setup for foodie-frontend
-
+  checkout [live](https://ayushbisht2001.github.io/Foodie-frontend/)
 
 ## Getting Project
     git clone https://github.com/ayushbisht2001/Foodie-Hack.git
